@@ -1,4 +1,4 @@
-PokerLib<br>
+PokerLib library<br>
 <br>
 Containing:<br>
 <br>
